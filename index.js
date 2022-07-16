@@ -38,7 +38,7 @@ exports.decorateConfig = config =>
     }
     .hyper_main {
       ${(config.wickedBorder || config.wickedBorder === undefined) &&
-        `border: 10px solid ${config.wickedBorderColor || magenta} !important;
+        `border: 50px solid ${config.wickedBorderColor || magenta} !important;
           border-radius: 10px;
         `}
     }
