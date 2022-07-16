@@ -1,0 +1,20 @@
+{
+  "name": "hyperterm-stndrd-theme",
+  "version": "2.0.1",
+  "description": "A Stndrd Theme for Hyper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hyper",
+    "theme",
+    "color scheme"
+  ],
+  "author": "John Milner",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaolongbao33/hyper-stndrd-theme.git"
+  },
+  "license": "ISC"
+}
